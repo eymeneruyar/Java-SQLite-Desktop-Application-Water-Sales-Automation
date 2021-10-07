@@ -1,23 +1,25 @@
-# Java SQLite Desktop Application - Water Sales Automation
+# Water Sales Automation Project
 
-Su satış programı, kullanıcıların kolay bir şekilde satış ve sipariş takibini sağlamaktadır. Program kullanıcı adı ve şifre ile korunmaktadır. Böylece satış bilgilerinizi güvende tutabilirsiniz. Programa ilk kez giriş yapıyorsanız "Hesap Oluştur" bölümünden hesap oluşturabilir ve programı kullanmaya başlayabilirsiniz. Programı test etmek için aşağıda bulunan kullanıcılar ile giriş yapabilirsiniz.
+# Abstract
+Users can easily following sales and orders with the water sales automation program. The program save with username and password. Thus your sales information can keep on safe. If you enter the program for the first time, you can easily create an account from the "Create Account" section and then start using the program. 
 
-## Kullanıcılar
+# General Information about Application
+The water sales automation program provides sales and order following. Firstly, you must sign into with the username and password found in the database. After successfully sign into the program, we can see customer and order information. If you want to add a new customer, can use the “Customer Add” button, and also previously added customer information can edit with the “Edit” button. If you want to delete a customer, must mark the customer to delete. The same processes are valid while editing customer information. The search process can be done by entering the customer’s name and surname. For creating a new order, we must choose the customer and then click the "New Order" button. After the new order information entering, this information is showed in the order table. Each new order status is specified as "Preparing". When order status changed, we can update the order status with the "On the Way" and "Delivered" buttons. If the system user wants to change the password can use the "Change Password" button.
+Finally, this project while improving is used Java programming language and SQLite database. You can use the water sales program by logging in with the accounts below.
 
-| Kullancı Adı  | Şifre |
+## Users on Systems
+
+| Username  | Password |
 | ------------- |:-------------:|
 | eymen      | 12345     |
 | eymen123   | 12345     |
 
-## Kullanılan Diller ve Yetenekler
+## Programming Languages and Libraries
+:arrow_right: Java
+:arrow_right: SQLite
+:arrow_right: Jframe 
 
-| Dil / Yetenek | :arrow_right: | % |
-| ------------- |:-------------:|:-------------:|
-| Java | :arrow_right: | 60 |
-| JFrame | :arrow_right: | 15 |
-| SQLite | :arrow_right: | 25 |
-
-## Uygulama Görselleri
+## Application Images
 
 <p>
   
