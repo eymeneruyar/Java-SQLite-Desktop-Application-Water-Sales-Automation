@@ -17,5 +17,23 @@ Uygulama Açıklaması
   
 <a href="https://github.com/eymeneruyar/Java-SQLite-Desktop-Application-Water-Sales-Automation/blob/main/Project%20Images/4.M%C3%BC%C5%9Fteri%20Ekle.JPG" target="_blank">
 <img src="https://github.com/eymeneruyar/Java-SQLite-Desktop-Application-Water-Sales-Automation/blob/main/Project%20Images/4.M%C3%BC%C5%9Fteri%20Ekle.JPG" width="200" style="max-width:100%;"></a>
+ 
+<a href="https://github.com/eymeneruyar/Java-SQLite-Desktop-Application-Water-Sales-Automation/blob/main/Project%20Images/5.D%C3%BCzenle.JPG" target="_blank">
+<img src="https://github.com/eymeneruyar/Java-SQLite-Desktop-Application-Water-Sales-Automation/blob/main/Project%20Images/5.D%C3%BCzenle.JPG" width="200" style="max-width:100%;"></a>
   
-  </p>
+<a href="https://github.com/eymeneruyar/Java-SQLite-Desktop-Application-Water-Sales-Automation/blob/main/Project%20Images/6.M%C3%BC%C5%9Fteri%20Sil.JPG" target="_blank">
+<img src="https://github.com/eymeneruyar/Java-SQLite-Desktop-Application-Water-Sales-Automation/blob/main/Project%20Images/6.M%C3%BC%C5%9Fteri%20Sil.JPG" width="200" style="max-width:100%;"></a>
+  
+<a href="https://github.com/eymeneruyar/Java-SQLite-Desktop-Application-Water-Sales-Automation/blob/main/Project%20Images/7.Yeni%20Sipari%C5%9F.JPG" target="_blank">
+<img src="https://github.com/eymeneruyar/Java-SQLite-Desktop-Application-Water-Sales-Automation/blob/main/Project%20Images/7.Yeni%20Sipari%C5%9F.JPG" width="200" style="max-width:100%;"></a>
+  
+<a href="https://github.com/eymeneruyar/Java-SQLite-Desktop-Application-Water-Sales-Automation/blob/main/Project%20Images/8.Spiari%C5%9F%20Durumu.JPG" target="_blank">
+<img src="https://github.com/eymeneruyar/Java-SQLite-Desktop-Application-Water-Sales-Automation/blob/main/Project%20Images/8.Spiari%C5%9F%20Durumu.JPG" width="200" style="max-width:100%;"></a>
+  
+<a href="https://github.com/eymeneruyar/Java-SQLite-Desktop-Application-Water-Sales-Automation/blob/main/Project%20Images/9.Sipari%C5%9F%20Durumu%202.JPG" target="_blank">
+<img src="https://github.com/eymeneruyar/Java-SQLite-Desktop-Application-Water-Sales-Automation/blob/main/Project%20Images/9.Sipari%C5%9F%20Durumu%202.JPG" width="200" style="max-width:100%;"></a>
+  
+<a href="https://github.com/eymeneruyar/Java-SQLite-Desktop-Application-Water-Sales-Automation/blob/main/Project%20Images/10.%C5%9Eifre%20De%C4%9Fi%C5%9Ftir.JPG" target="_blank">
+<img src="https://github.com/eymeneruyar/Java-SQLite-Desktop-Application-Water-Sales-Automation/blob/main/Project%20Images/10.%C5%9Eifre%20De%C4%9Fi%C5%9Ftir.JPG" width="200" style="max-width:100%;"></a>
+  
+</p>
