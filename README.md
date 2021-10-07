@@ -1,6 +1,13 @@
 # Java SQLite Desktop Application - Water Sales Automation
 
-Su satış programı, kullanıcıların kolay bir şekilde satış ve sipariş takibini sağlamaktadır. Program kullanıcı adı ve şifre ile korunmaktadır. Böylece satış bilgilerinizi güvende tutabilirsiniz. Programa ilk kez giriş yapıyorsanız "Hesap Oluştur" bölümünden hesap oluşturabilir ve programı kullanmaya başlayabilirsiniz.
+Su satış programı, kullanıcıların kolay bir şekilde satış ve sipariş takibini sağlamaktadır. Program kullanıcı adı ve şifre ile korunmaktadır. Böylece satış bilgilerinizi güvende tutabilirsiniz. Programa ilk kez giriş yapıyorsanız "Hesap Oluştur" bölümünden hesap oluşturabilir ve programı kullanmaya başlayabilirsiniz. Programı test etmek için aşağıda bulunan kullanıcılar ile giriş yapabilirsiniz.
+
+## Kullanıcılar
+
+| Kullancı Adı  | Şifre |
+| ------------- |:-------------:|
+| eymen      | 12345     |
+| eymen123   | 12345     |
 
 ## Kullanılan Diller ve Yetenekler
 
